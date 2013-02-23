@@ -1,9 +1,10 @@
 #include<iostream>
- using namespacestd;
+ using namespace std;
 class smallest
 {
 private:
-int x,y;
+int x;
+int y;
 public:
 void getdata();
 void showdata();
